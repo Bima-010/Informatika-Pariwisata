@@ -12,7 +12,6 @@ st.set_page_config(
 )
 
 st.title("🍲 Analisis Sentimen & Aspek Ekosistem Kuliner Khas Lamongan")
-st.write("Masukkan ulasan untuk memprediksi aspek dan sentimennya secara riil menggunakan model Anda.")
 
 PATH_INDOBERT = "./indoBERT_final_model"  
 PATH_LDA_MODEL = "./lda_model.model"       
